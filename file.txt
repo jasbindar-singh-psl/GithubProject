@@ -4,8 +4,12 @@ File Changed
 
 Changed Again
 
+<<<<<<< HEAD
 Changes
 
 Phir se change kiya
 
 asdjfnsdkjfnsdjkf
+=======
+Changes
+>>>>>>> parent of 9e5c260... phir change
