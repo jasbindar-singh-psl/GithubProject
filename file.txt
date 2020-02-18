@@ -19,3 +19,5 @@ Changes
 >>>>>>> parent of 9e5c260... phir change
 
 changes to git bug1
+
+chenges to git bug2
