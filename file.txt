@@ -18,8 +18,10 @@ Changes
 Changes
 >>>>>>> parent of 9e5c260... phir change
 
-changes to git bug1
+1.changes to git bug1
 
-changes to git bug2
+2.changes to git bug2
 
-changes to check 3-way merge by teamate for some thing
+3.changes to check 3-way merge by teamate for some thing
+
+4.changes to rebase from teammate from remote resource
